@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 2.1
+    },
+    {
+      "id": 2,
+      "name": "Mousepad",
+      "price": 20.5
+    },
+    {
+      "id": 3,
+      "name": "IPhone XS Max",
+      "price": 8000.9
+    },
+    {
+      "id": 4,
+      "name": "IPhone 8",
+      "price": 6000.9
+    },
+    {
+      "name": "IPhone 5S",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "name": "IPhone 4S",
+      "price": 400,
+      "id": 6
+    }
+  ]
+}
