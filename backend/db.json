@@ -16,19 +16,9 @@
       "price": 8000.9
     },
     {
-      "id": 4,
-      "name": "IPhone 8",
-      "price": 6000.9
-    },
-    {
-      "name": "IPhone 5S",
-      "price": 1000,
-      "id": 5
-    },
-    {
-      "name": "IPhone 4S",
-      "price": 400,
-      "id": 6
+      "name": "Teclado",
+      "price": "26",
+      "id": 4
     }
   ]
 }
