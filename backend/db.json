@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
+      "name": "Caneta Bic Azul",
       "price": 2.1
     },
     {
@@ -19,6 +19,21 @@
       "name": "Teclado",
       "price": "26",
       "id": 4
+    },
+    {
+      "name": "Teste de inclusão",
+      "price": "25",
+      "id": 5
+    },
+    {
+      "name": "Mousepad",
+      "price": "19",
+      "id": 6
+    },
+    {
+      "name": "Borracha",
+      "price": "2",
+      "id": 7
     }
   ]
 }
